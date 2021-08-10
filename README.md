@@ -13,6 +13,8 @@ To compile a scanner you must have golang compiler.
     IP or domain names to scan
 -o string
     Result list (default "output.txt")
+-t int
+    Timeout of a port scan (default 1 second)
 ```
 
 ### Input file format
